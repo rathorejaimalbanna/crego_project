@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crego_project/static/css/main.a819532e.css",
+    "main.js": "/crego_project/static/js/main.56382782.js",
+    "index.html": "/crego_project/index.html",
+    "main.a819532e.css.map": "/crego_project/static/css/main.a819532e.css.map",
+    "main.56382782.js.map": "/crego_project/static/js/main.56382782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a819532e.css",
+    "static/js/main.56382782.js"
+  ]
+}
